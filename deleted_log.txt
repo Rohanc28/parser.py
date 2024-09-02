@@ -1,0 +1,116 @@
+Deleted from app.ftl: <!--BCST-508: Change logo URL with payment confirmation.  -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Style needs to be extracted in CSS! -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Do not show other user's email/loginid ever -->
+Deleted from app.ftl: <!-- Check directly if conditionCodes contains DP_INCOMPLETE -->
+Deleted from schedule-util.ftl: <!--Display the select all option only if more than one account-->
+Deleted from all-remote-docs.ftl: <!-- Style needs to be extracted in CSS! -->
+Deleted from view-acct-edocs.ftl: <!-- Style needs to be extracted in CSS! -->
+Deleted from app.ftl: <!-- files for legacy AD in iframe -->
+Deleted from payment-queue.ftl: <!-- jQuer ui needs to be included after bootstrap.js
+Deleted from app.ftl: <!-- files for legacy AD in iframe -->
+Deleted from account-hub-util.ftl: <!-- Function to remove the active account item -->
+Deleted from cif-filemanager.ftl: <!-- Uncomment if you need to use raw source code
+Deleted from cif-filemanager.ftl: <!-- Comment if you need to use raw source code -->
+Deleted from cif-filemanager.ftl: <!-- Comment if you need to use raw source code -->
+Deleted from app.ftl: <!-- files for legacy AD in iframe -->
+Deleted from cif-filemanager.ftl: <!-- Uncomment if you need to use raw source code
+Deleted from cif-filemanager.ftl: <!-- Comment if you need to use raw source code -->
+Deleted from cif-filemanager.ftl: <!-- Comment if you need to use raw source code -->
+Deleted from bw-invite-to-pay-email-new-customer.ftl: <!-- somehow the boarder is not showing properly in outlook -->
+Deleted from customize-notifications-util.ftl: <!-- End Left Col Code --><!--[if gte mso 9]>
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Deleted from app.ftl: <!-- End: Input field for account type -->
+Deleted from otp-util.ftl: <!-- to capture zip code for saved payment method and PmZipCodeEntryEnabled is set true later -->
+Deleted from app.ftl: <!-- new kiosk mode css overwrite for AWK -->
+Deleted from appV2.ftl: <!-- Should always look to the session for brand param -->
+Deleted from appV2.ftl: <!-- Should always look to the session for brand param -->
+Deleted from app.ftl: <!-- Should always look to the session for brand param -->
+Deleted from app.ftl: <!-- Do nothing or handle the error gracefully -->
+Deleted from app.ftl: <!-- Should always look to the session for brand param -->
+Deleted from app.ftl: <!-- Should always look to the session for brand param -->
+Automatically deleted from C:/devenv/Git_Projects/dev\customer-portal-war\WEB-INF\ftl\common\legacy-util.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\mobile-ad-war\WEB-INF\ftl\common\otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\mobile-dashboard-war\WEB-INF\ftl\common\otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\paybox\etc\ach-ds-settlement-report\common\otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\paybox\etc\ach-returns-direct-snd-load\common\otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\paybox\etc\bill-summary-process-sms\common\otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\paybox\etc\billerpaybox-web\common\otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\paybox\etc\billerpaybox-web\common\v2\otp-util-v2.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\paybox\etc\billerpaybox-web\v2.1\common\otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\paybox\etc\billerpaybox-web\v2.1\common\v2.1\otp-util-v2.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\paybox\etc\cm-message-sender\common\otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\paybox\etc\createbiller-web\common\otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\paybox\etc\customer-notification\common\otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\paybox\etc\otp-web\8084677867\common\app.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\paybox\etc\otp-web\common\otp-util.ftl: <!-- end of Step Progress Indicator table -->
+Automatically deleted from C:/devenv/Git_Projects/dev\paybox\etc\xotp-web\common\otp-util.ftl: <!-- end of Step Progress Indicator table -->
